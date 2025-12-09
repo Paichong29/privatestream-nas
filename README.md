@@ -67,7 +67,7 @@ Cara tercepat dan paling stabil untuk menjalankan PrivateStream adalah menggunak
 
 ### Langkah 1: Clone Repository
 ```bash
-git clone https://github.com/your-username/privatestream.git
+git clone https://github.com/Paichong29/privatestream-nas.git
 cd privatestream
 ```
 
